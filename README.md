@@ -1,2 +1,24 @@
-# capacitacaofront
-Projeto em Vue, com 3 componentes (carrossel, footer e navbar) feitos para uma página para a capacitação COMP JÚNIOR
+# compjunior
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
